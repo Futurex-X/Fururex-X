@@ -48,19 +48,7 @@ Explore repositórios que envolvem:
 | `sistema-login`       | Sistema de autenticação de usuários com interface amigável em Java.       |
 | `jogo-da-velha`       | Versão clássica do jogo com estrutura modular e inteligência básica.      |
 | `calculadora-basica`  | Ferramenta de cálculo desenvolvida com foco em lógica e UI clara.         |
-| `case-prime-system`   | Sistema de gestão de vendas para microempreendimento de capinhas.         |
 | `futurex-ai-lab`      | Protótipos e estudos de IA, incluindo reconhecimento e algoritmos lógicos.|
-
----
-
-## 👤 Sobre o Criador
-
-**João Pedro Abreu da Costa**  
-📍 Estudante de Informática – IFCE  
-📌 Desenvolvedor em formação apaixonado por tecnologia, aprendizado constante e desafios computacionais.  
-🎯 Interesse em desenvolvimento web, IA e engenharia de software.
-
-> _"Cada linha de código escrita é um passo em direção ao futuro que quero construir."_  
 
 ---
 
